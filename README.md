@@ -1,4 +1,4 @@
-MooTools Core
+MooTools Core test
 =============
 This repository is for MooTools developers; not users.
 All users should download MooTools from [MooTools.net](http://mootools.net/download "Download MooTools")
